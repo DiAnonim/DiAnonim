@@ -24,10 +24,10 @@
 
 - 📫 Связь
 Вы можете связаться со мной одним из способов ниже::arrow_down:
-:white_check_mark:Github - https://github.com/DiAnonim
-:white_check_mark:Email - d1anonim2002@gmail.com
-:white_check_mark:VK - https://vk.com/d1anonim
-:white_check_mark:Telegram - DiAnonim
+✅Github - https://github.com/DiAnonim
+✅Email - d1anonim2002@gmail.com
+✅VK - https://vk.com/d1anonim
+✅Telegram - DiAnonim
 
 - :memo: Благодарность
 Спасибо, что заглянули на мою страницу! 
